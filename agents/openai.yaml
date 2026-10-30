@@ -1,0 +1,4 @@
+interface:
+  display_name: "腾讯云备案（网站、程序）Skill"
+  short_description: "核对腾讯云网站与 App 备案材料、进度、退回和公安联网备案"
+  default_prompt: "使用 $tencent-cloud-filing 核对本次腾讯云网站或 App 备案的资料、审核阶段、退回原因及下一步。"
